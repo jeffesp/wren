@@ -13,7 +13,7 @@ run (if any), and any other options passed to Wren itself.
 
 If you run:
 
-    $ wren file.wren arg
+    $ wren_cli file.wren arg
 
 This returns:
 
@@ -29,7 +29,7 @@ itself.
 
 If you run:
 
-    $ wren file.wren arg
+    $ wren_cli file.wren arg
 
 This returns:
 
